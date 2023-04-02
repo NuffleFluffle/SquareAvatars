@@ -5,7 +5,8 @@ This is some basic CSS to make avatars square without turning other elements squ
 
 ## Examples
 ![Examples](https://github.com/NuffleFluffle/SquareAvatars/blob/main/img/1.png)
-
+![Examples](https://github.com/NuffleFluffle/SquareAvatars/blob/main/img/2.png)
+![Examples](https://github.com/NuffleFluffle/SquareAvatars/blob/main/img/3.png)
 
 
 
