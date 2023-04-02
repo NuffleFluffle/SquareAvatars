@@ -1,0 +1,11 @@
+/**
+    * @name Square Corners
+    * @version 1.0.0
+    * @description Square > Round
+**/
+foreignObject[mask*="url(#"] {
+    mask: none;
+}
+.avatar-2e8lTP{
+    border-radius: 0;
+}
